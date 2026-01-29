@@ -6,7 +6,8 @@ Main features of my our program:
 4. Deposit / Withdraw
 5. Transaction history
 6. Block wrong PIN attempts
-Core Concepts Authentication
-a. Secure updates
-b. Log files
-c. Time-stamped transactions
+Core Concepts
+a. Authentication
+b. Secure updates
+c. Log files
+d. Time-stamped transactions
