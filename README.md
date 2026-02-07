@@ -8,6 +8,7 @@ Main features of my our program:
 6. Block wrong PIN attempts
 
 Core Concepts:
+
 a. Authentication
 
 b. Secure updates
